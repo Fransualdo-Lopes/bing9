@@ -1,4 +1,4 @@
-zone "test.com." {
+zone "internetjetz.com.br." {
 
        type master;
 
